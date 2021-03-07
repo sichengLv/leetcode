@@ -1,0 +1,9 @@
+# C++
+.metadata
+.settings
+*.tmp
+*.bak
+*.swp
+*.iml
+*.exe
+*.json
