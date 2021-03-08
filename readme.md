@@ -13,6 +13,8 @@ https://leetcode.com/problemset/all/
 https://leetcode-cn.com/problemset/all/
 
 
-
+git config https.sslVerify "false"
+git config --global https.sslVerify "false"
+git config --global https.sslVerify false
 git push -u origin master
 
