@@ -14,4 +14,5 @@ https://leetcode-cn.com/problemset/all/
 
 
 
+git push -u origin master
 
