@@ -4,7 +4,7 @@ using namespace std;
 /**
  * @brief  116. Populating Next Right Pointers in Each Node
  * 填充每个节点的下一个右侧节点指针
- * @author 吕思诚
+ * @author sichengLv
  * @date   2021年3月7日21:33:26
  */
 

@@ -3,7 +3,7 @@ using namespace std;
 
 /**
  * @brief  翻转一棵二叉树
- * @author 吕思诚
+ * @author sichengLv
  * @date   2021年3月7日20:49:03
  */
 

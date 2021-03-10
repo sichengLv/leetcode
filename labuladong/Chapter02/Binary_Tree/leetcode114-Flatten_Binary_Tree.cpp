@@ -5,7 +5,7 @@ using namespace std;
 /**
  * @brief  114. Flatten Binary Tree to Linked List
  *      将二叉树展开为链表
- * @author 吕思诚
+ * @author sichengLv
  * @date   2021年3月8日22:59:02
  */
 

@@ -5,7 +5,7 @@ using namespace std;
 /**
  * @brief  654. Maximum Binary Tree
  *         构造最大二叉树
- * @author 吕思诚
+ * @author sichengLv
  * @date   2021年3月9日21:58:53
  */
 
