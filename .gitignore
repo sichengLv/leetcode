@@ -1,6 +1,7 @@
 # C++
 .metadata
 .settings
+.idea
 *.tmp
 *.bak
 *.swp
